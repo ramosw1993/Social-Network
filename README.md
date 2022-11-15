@@ -4,6 +4,10 @@
 
 MongoDB is a popular choice for many social networks due to its speed with large amounts of data and flexibility with unstructured data, that is why when we received the read me it was pretty clear what we were going to do. The job was to make a social media backend that is running a social network with users and their thoughts. Users would have the option of adding friends and it comes with features such as creating, updating and deleting.
 
+## Walk through
+
+Video: https://drive.google.com/file/d/10zQwlmnZBFXtUJMKNjMxGEeAsZT2oETX/view
+
 ## Installation
 
 Download or clone repository to use this application on local machine.
